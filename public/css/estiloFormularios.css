@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    margin-bottom: 30px;
+}
+label{
+    color: #184463 ;
+}
+.inputs{
+    height: 40px;
+    width: 500px;
+}
+.centrar{
+    display: flex;
+    flex-direction: column ;
+    align-items:  center;
+    justify-content: center;
+}
+.boton{
+    margin-top: 10px;
+    float: right;
+}
