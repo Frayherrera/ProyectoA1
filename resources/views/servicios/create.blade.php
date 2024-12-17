@@ -10,7 +10,7 @@
         <input type="text" name="nombre" class="form-control inputs" required>
     </div>
     <div class="form-group">
-        <label for="descripcion">Descripción:</label>
+        <label for="descripcion">Dessscripción:</label>
         <textarea name="descripcion" class="form-control inputs"></textarea>
     </div>
     <div class="form-group">
